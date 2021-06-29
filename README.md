@@ -20,7 +20,7 @@ Gender Demographics
   - Percentage and Count of Other / Non-Disclosed
 
 Purchasing Analysis (Gender).
-  The below each broken by gender
+  The below each broken by gender:
 
   - Purchase Count
   - Average Purchase Price
@@ -28,7 +28,7 @@ Purchasing Analysis (Gender).
   - Average Purchase Total per Person by Gender
 
 Age Demographics.
-  The below each broken into bins of 4 years (i.e. <10, 10-14, 15-19, etc.)
+  The below each broken into bins of 4 years (i.e. <10, 10-14, 15-19, etc.):
 
   - Purchase Count
   - Average Purchase Price
